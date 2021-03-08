@@ -1,0 +1,1 @@
+<?phpclass WebrootController extends AppController {public function index() {	}}?>
